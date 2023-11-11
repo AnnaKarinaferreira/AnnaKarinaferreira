@@ -10,5 +10,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Anna GitHub stats](https://github-readme-stats.vercel.app/api?username=annakari&show_icons=true&theme=radical)
+
 
 
