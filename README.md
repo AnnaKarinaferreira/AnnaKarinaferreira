@@ -1,6 +1,8 @@
 ### 🤍 Hello world, i am Anna!
 ### 🤍 Welcome to my Github profile.
 
+![Anna GitHub stats](https://github-readme-stats.vercel.app/api?username=annakari&show_icons=true&theme=radical)
+
 ### SOCIAL MEDIA
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annakarinapacheco/)
 
@@ -10,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Anna GitHub stats](https://github-readme-stats.vercel.app/api?username=annakari&show_icons=true&theme=radical)
+
 
 
 
